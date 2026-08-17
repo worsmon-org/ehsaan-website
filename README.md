@@ -22,7 +22,8 @@
 > handed over government ID.
 > **Every app and every device, worldwide, with no opt-out.**
 ---
-[<img alt="Get it on Google Play" src="badges/playstore.png" width="180px">]
+## 📌My Favourit Habit Tracker App ##
+[<img alt="Get it on Google Play" src="badges/playstore.png" width="180px">](https://play.google.com/store/apps/details?id=com.shub39.grit)
 
 ## 🧭 ABOUT
 
