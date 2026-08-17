@@ -78,7 +78,7 @@ A collection of some of the main things you'll find around the website:
 |  🎬 | **Movies Hub**            |
 |  ⌚  | **Watch Collection**      |
 |  🌿 | **Natural Drugs**         |
-
+*Basically, a collection of things I like.* 👀
 ---
 
 ## 🖼️ SCREENSHOTS
@@ -112,20 +112,6 @@ A collection of some of the main things you'll find around the website:
 
 ---
 
-# 🔥 THINGS YOU'LL FIND HERE
-
-| 🏷️ | COLLECTION                |
-| :-: | :------------------------ |
-| 🖼️ | **Wallpaper Collection**  |
-|  🎵 | **Music Library (.FLAC)** |
-|  🎬 | **Movies Hub**            |
-|  ⌚  | **Watch Collection**      |
-|  🌿 | **Natural Drugs**         |
-
-*Basically, a collection of things I like.* 👀
-
----
-
 ## 🚧 STATUS
 
 🟢 **Active Development**
@@ -153,12 +139,10 @@ I started by looking at repositories I thought looked cool, copying some ideas, 
 And somehow...
      > **I ended up making this.**
 
-So this repository is basically my little experiment with GitHub, websites, Markdown, HTML, and whatever else I discover along the way. 🫠
 
 > **I came here to learn a little code.
 > I stayed because this became fun.** 🚀
 
----
 
 Just someone exploring the internet, building things, collecting things, and having fun along the way. 🫠
 
@@ -184,5 +168,5 @@ A few hours later, here we are.
 <p align="center">
   <a href="https://ehsaan.odoo.com">
 
-## ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT  ##
+ ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT ~
     
