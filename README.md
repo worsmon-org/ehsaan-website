@@ -27,7 +27,7 @@
 ](https://shub39.github.io/Grit)
 [<img width="180px" alt="playstore" src="https://github.com/user-attachments/assets/37873085-e28e-47a2-aa2a-b583dfcbc3c9" />
 ](https://play.google.com/store/apps/details?id=com.shub39.grit)
-[<img width="417" height="134" alt="fdroid" src="https://github.com/user-attachments/assets/a08ad80f-37d1-4431-983e-cfac2e367519" />
+[<img width="180px" alt="fdroid" src="https://github.com/user-attachments/assets/a08ad80f-37d1-4431-983e-cfac2e367519" />
 ](https://f-droid.org/en/packages/com.shub39.grit/)
 
 ## 🧭 ABOUT
