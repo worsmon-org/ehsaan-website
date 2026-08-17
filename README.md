@@ -28,19 +28,14 @@ Ehsaan is a social-impact initiative focused on creating meaningful grassroots.
 
 
 
-
-
-
-
-
-
-
 ⚓ Technology ⚓
 
 - Odoo
 - Google Photos
 - Google Docs
 - Cal.com and More.
+
+  CAR BLAST PLAYLIST
 
 ## Status ##
 
