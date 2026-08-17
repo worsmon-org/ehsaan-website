@@ -32,6 +32,8 @@
 [<img width="180px" alt="fdroid" src="https://github.com/user-attachments/assets/a08ad80f-37d1-4431-983e-cfac2e367519" />
 ](https://f-droid.org/en/packages/com.shub39.grit/)
 
+---
+
 # 🛡️ KEEP ANDROID OPEN
 
 > [!CAUTION]
@@ -41,6 +43,37 @@
 > Android app whose developer hasn't registered with Google, signed their contract, paid up, and
 > handed over government ID. **Every app and every device, worldwide, with no opt-out.**
 > ### 📱 Your phone should remain yours.
+
+---
+
+# 🖼️ SCREENSHOTS
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/a7ecbf39-708f-4623-80e3-768c03a708a2" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/384148ae-bece-4ce0-944e-cad0737af04a" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/e06fbca0-a1ec-4ec4-a787-e17b7442f563" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/e99a2229-2989-4550-be98-a115882ea513" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -116,37 +149,6 @@ A collection of some of the main things you'll find around the website:
 
 ---
 
-
-# 🖼️ SCREENSHOTS
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/a7ecbf39-708f-4623-80e3-768c03a708a2" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/384148ae-bece-4ce0-944e-cad0737af04a" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/e06fbca0-a1ec-4ec4-a787-e17b7442f563" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/e99a2229-2989-4550-be98-a115882ea513" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🚧 STATUS
 
