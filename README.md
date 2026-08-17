@@ -63,6 +63,21 @@ And let the speakers suffer. 🚗💨🔊
 
 ---
 
+## 🔥 TOP ELEMENTS
+
+A collection of some of the main things you'll find around the website:
+
+| 🏷️ | COLLECTION                |
+| :-: | :------------------------ |
+| 🖼️ | **Wallpaper Collection**  |
+|  🎵 | **Music Library (.FLAC)** |
+|  🎬 | **Movies Hub**            |
+|  ⌚  | **Watch Collection**      |
+|  🌿 | **Natural Drugs**         |
+
+
+---
+
 # 🖼️ SCREENSHOTS
 
 <table>
@@ -129,21 +144,6 @@ Not a coder.
 Just someone who decided:
 
 > *"Let's make a GitHub repository and see what happens."* 😂
-
-
----
-
-## 🔥 TOP ELEMENTS
-
-A collection of some of the main things you'll find around the website:
-
-| 🏷️ | COLLECTION                |
-| :-: | :------------------------ |
-| 🖼️ | **Wallpaper Collection**  |
-|  🎵 | **Music Library (.FLAC)** |
-|  🎬 | **Movies Hub**            |
-|  ⌚  | **Watch Collection**      |
-|  🌿 | **Natural Drugs**         |
 
 
 ---
