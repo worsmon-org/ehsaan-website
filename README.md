@@ -82,7 +82,8 @@ A collection of some of the main things you'll find around the website:
 *Basically, a collection of things I like.* 👀
 ---
 
-## 🖼️ SCREENSHOTS
+
+# 🖼️ SCREENSHOTS
 
 <table>
   <tr>
