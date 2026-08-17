@@ -56,11 +56,10 @@ A collection of some of the main things you'll find around the website:
 
 ## 🖼️ SCREENSHOTS
 
-## 📸 Screenshots
   
 <p align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
-  <img width="250" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
+  <img width="250" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" /> |   <img width="250" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
+
   <img width="250" src="https://github.com/user-attachments/assets/a7ecbf39-708f-4623-80e3-768c03a708a2" />
 </p>
 
