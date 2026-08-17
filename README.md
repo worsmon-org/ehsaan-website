@@ -7,6 +7,7 @@
 <p align="center">
   <strong>🌐 Official Website of EHSAAN ULLAH</strong>
 </p>
+<p align="center">
 <a href="https://trendshift.io/repositories/22545" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22545" alt="A-EDev%2FFlow | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <p align="center">
