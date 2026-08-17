@@ -22,6 +22,7 @@
 > handed over government ID.
 > **Every app and every device, worldwide, with no opt-out.**
 ---
+[<img alt="Get it on Google Play" src="badges/playstore.png" width="180px">]
 
 ## 🧭 ABOUT
 
