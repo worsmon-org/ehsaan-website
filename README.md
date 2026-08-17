@@ -110,6 +110,11 @@ The website is powered by a mix of platforms and tools:
 
 The project is continuously being updated, experimented with, and expanded.
 
+## Translations
+
+Translations are done via weblate, you can contribute there!
+[<img src="https://hosted.weblate.org/widget/grit/multi-auto.svg" alt="Translation status" />](https://hosted.weblate.org/engage/grit/)
+[<img src="https://hosted.weblate.org/widget/grit/287x66-grey.png" alt="Translation status" />](https://hosted.weblate.org/engage/grit/)
 ---
 
 ## 👤 ABOUT THE CREATOR
