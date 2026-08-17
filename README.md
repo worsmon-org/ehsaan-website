@@ -67,7 +67,7 @@ And let the speakers suffer. 🚗💨🔊
 
 A collection of some of the main things you'll find around the website:
 
-| 🏷️ | COLLECTION                |
+| 🏷️ | ALL COLLECTION             |
 | :-: | :------------------------ |
 | 🖼️ | **Wallpaper Collection**  |
 |  🎵 | **Music Library (.FLAC)** |
