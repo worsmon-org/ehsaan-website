@@ -1,9 +1,6 @@
 # 🎗️ CS EHSAAN ULLAH
 
-<p align="center">
-  <img src="./banner.svg"
-       width="100%"
-       alt="Ehsaan Ullah">
+
 </p>
 <p align="center">
   <img width="220" height="220" alt="EHSAAN ULLAH" src="https://github.com/user-attachments/assets/b1dba267-f7da-4f88-b6ee-0f11748365f3" />
@@ -16,7 +13,7 @@
 (https://ehsaan.odoo.com/)
   
 <p align="center">
-<a href="https://trendshift.io/repositories/22545" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22545" alt="A-EDev%2FFlow | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<img width="250" height="55" alt="image" src="https://github.com/user-attachments/assets/c88238e5-ff64-4c36-9ff8-3f4e2b8a6f8f" />
 
 <p align="center">
   <a href="https://ehsaan.odoo.com">
@@ -38,6 +35,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./banner.svg"
+       width="100%"
+       alt="Ehsaan Ullah">
+  
 ## 📌My Favourit Habit Tracker App ##
 [<img width="180px" alt="webDemo" src="https://github.com/user-attachments/assets/88c06137-f6e0-4e6b-9962-6f14c1d0536b" />
 ](https://shub39.github.io/Grit)
@@ -153,16 +155,15 @@ I'm learning by experimenting with whatever I find interesting.
 
 Currently:
 
-🟣 Odoo
-🐙 GitHub
-📝 Markdown
-🌐 HTML
-📸 Google Photos
-📝 Google Docs
-📅 Cal.com
-🧩 And probably a lot of things I haven't discovered yet
+| 🟣 |   Odoo                    |
+| :-: | :------------------------ |
+| 🐙 | **GitHub**  |
+|  📝 | **Markdown** |
+|  🌐 | **HTML**            |
+|  📸  | **GooGle Photos**      |
+|  📅 | **Cal.com**         |
 
----
+🧩 And probably a lot of things I haven't discovered yet
 
 # 👤 THAT'S ME
 
