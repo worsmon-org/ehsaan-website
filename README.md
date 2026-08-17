@@ -63,9 +63,8 @@ And let the speakers suffer. 🚗💨🔊
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ">
-    <img  width="180px" src="https://img.shields.io/badge/🎵_PLAY_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎵_PLAY_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-</p>
 
 ---
 
@@ -170,5 +169,7 @@ Just someone exploring the internet, building things, collecting things, and hav
 
 <p align="center">
   <a href="https://ehsaan.odoo.com">
+
+    ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT ⭐
     🌐 <strong>Visit EHSAAN</strong>
   </a>
