@@ -1,0 +1,136 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background gradient -->
+    <linearGradient id="background"
+                    x1="0%" y1="0%"
+                    x2="100%" y2="100%">
+
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+
+    </linearGradient>
+
+    <!-- Glow -->
+    <radialGradient id="glow">
+
+      <stop offset="0%" stop-color="#7F52FF"
+            stop-opacity="0.25"/>
+
+      <stop offset="100%" stop-color="#7F52FF"
+            stop-opacity="0"/>
+
+    </radialGradient>
+
+  </defs>
+
+
+  <!-- Background -->
+
+  <rect width="1200"
+        height="350"
+        fill="url(#background)"/>
+
+
+  <!-- Decorative glow -->
+
+  <circle cx="1050"
+          cy="80"
+          r="300"
+          fill="url(#glow)"/>
+
+
+  <!-- Decorative lines -->
+
+  <path d="M850 0 L1200 350"
+        stroke="#7F52FF"
+        stroke-opacity="0.12"
+        stroke-width="2"/>
+
+  <path d="M950 0 L1200 250"
+        stroke="#58A6FF"
+        stroke-opacity="0.10"
+        stroke-width="2"/>
+
+
+  <!-- Small decorative dots -->
+
+  <circle cx="930" cy="80"
+          r="3"
+          fill="#7F52FF"/>
+
+  <circle cx="970" cy="120"
+          r="2"
+          fill="#58A6FF"/>
+
+  <circle cx="1030" cy="60"
+          r="2"
+          fill="#F89820"/>
+
+  <circle cx="1080" cy="150"
+          r="3"
+          fill="#E34F26"/>
+
+
+  <!-- Main name -->
+
+  <text x="80"
+        y="145"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="58"
+        font-weight="700"
+        fill="#FFFFFF">
+
+    EHSAAN ULLAH
+
+  </text>
+
+
+  <!-- Subtitle -->
+
+  <text x="84"
+        y="190"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="23"
+        fill="#8B949E">
+
+    CS EXECUTIVE STUDENT
+
+  </text>
+
+
+  <!-- Divider -->
+
+  <rect x="84"
+        y="215"
+        width="90"
+        height="4"
+        rx="2"
+        fill="#7F52FF"/>
+
+
+  <!-- Description -->
+
+  <text x="84"
+        y="260"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        fill="#C9D1D9">
+
+    Learning • Building • Exploring
+
+  </text>
+
+
+  <!-- Bottom accent -->
+
+  <rect x="0"
+        y="345"
+        width="1200"
+        height="5"
+        fill="#7F52FF"/>
+
+</svg>
