@@ -14,9 +14,9 @@ Ehsaan is a social-impact initiative focused on creating meaningful grassroots.
 
 2..Music Library (.FLAC)
 
-1..[MOVIES HUB]
+1..MOVIES HUB
 
-2..[WATCH COLLECTION]
+2..WATCH COLLECTION
 
 3..NATURAL DRUGs
 
