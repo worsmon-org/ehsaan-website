@@ -18,9 +18,10 @@ Collective Albums.
 
 - Odoo
 - Google Photos
-- Odoo Online
+- Google Docs
+- Cal.com and More.
 
-## Status
+## Status ##
 
 Active development# ehsaan-website
 I am EHSAAN ULLAH. not a developer or coder but here just to fun...
