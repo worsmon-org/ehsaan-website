@@ -194,8 +194,6 @@ Translations are done via weblate, you can contribute there!
 <p align="center">
   <a href="https://ehsaan.odoo.com">
 
- ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT ~
+ ⭐ FINDING BEST RESOURCES IS NO MORE STUFF.
+ GIVE STARE AND SUPPORT THE PROJECT ~
 
-<p align="center">
-  <img src="./languages.svg" width="600" alt="Languages">
-</p>
