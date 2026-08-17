@@ -1,6 +1,11 @@
 # 🎗️ EHSAAN ULLAH
 
 <p align="center">
+  <img src="./assets/banner.svg"
+       width="100%"
+       alt="Ehsaan Ullah">
+</p>
+<p align="center">
   <img width="220" height="220" alt="EHSAAN ULLAH" src="https://github.com/user-attachments/assets/b1dba267-f7da-4f88-b6ee-0f11748365f3" />
 </p>
 
