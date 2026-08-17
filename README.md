@@ -1,5 +1,7 @@
 # 🎗️ EHSAAN ULLAH
 
+<a href="https://trendshift.io/repositories/22545" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22545" alt="A-EDev%2FFlow | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 <p align="center">
   <img width="220" height="220" alt="EHSAAN ULLAH" src="https://github.com/user-attachments/assets/b1dba267-f7da-4f88-b6ee-0f11748365f3" />
 </p>
