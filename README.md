@@ -140,5 +140,5 @@ Just someone exploring the internet, building things, collecting things, and hav
 </p>
 
 <p align="center">
-  ⭐ If you find something interesting here, feel free to explore!
+  ⭐ If you find something interesting here, feel free to explore! ⭐
 </p>
