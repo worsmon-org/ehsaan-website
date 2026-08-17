@@ -46,6 +46,23 @@
 
 ---
 
+# 🎧 CAR BLAST PLAYLIST
+
+### 🔊 For People Who Think The Bass Is Never Enough
+
+Turn up the volume.
+
+Get in the car.
+
+And let the speakers suffer. 🚗💨🔊
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ">
+    <img src="https://img.shields.io/badge/🎵_PLAY_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+
+---
+
 # 🖼️ SCREENSHOTS
 
 <table>
@@ -114,23 +131,6 @@ Just someone who decided:
 > *"Let's make a GitHub repository and see what happens."* 😂
 
 A few hours later, here we are.
-
----
-
-# 🎧 CAR BLAST PLAYLIST
-
-### 🔊 For People Who Think The Bass Is Never Enough
-
-Turn up the volume.
-
-Get in the car.
-
-And let the speakers suffer. 🚗💨🔊
-
-<p align="center">
-  <a href="https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ">
-    <img src="https://img.shields.io/badge/🎵_PLAY_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
 
 ---
 
