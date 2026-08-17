@@ -27,7 +27,6 @@
 # 🛡️ KEEP ANDROID OPEN
 
 > [!CAUTION]
-> ## [Keep Android Open](https://keepandroidopen.org/)
 > ###  Your phone is about to stop being yours.
 > ## [Keep Android Open](https://keepandroidopen.org/)
 > Starting September 2026, a silent update, nonconsensually pushed by Google, will block every
