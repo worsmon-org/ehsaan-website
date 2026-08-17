@@ -26,13 +26,14 @@
 
 # 🛡️ KEEP ANDROID OPEN
 
-I'm also interested in the discussion around Android's new developer-verification system.
-
-> ### 📱 Your phone should remain yours.
+> [!CAUTION]
+> ## [Keep Android Open](https://keepandroidopen.org/)
+> ###  Your phone is about to stop being yours.
 > ## [Keep Android Open](https://keepandroidopen.org/)
 > Starting September 2026, a silent update, nonconsensually pushed by Google, will block every
 > Android app whose developer hasn't registered with Google, signed their contract, paid up, and
 > handed over government ID.
+> ### 📱 Your phone should remain yours.
 > **Every app and every device, worldwide, with no opt-out.**
 ---
 
@@ -79,7 +80,7 @@ A collection of some of the main things you'll find around the website:
 |  ⌚  | **Watch Collection**      |
 |  🌿 | **Natural Drugs**         |
 
-Basically, a collection of things I like. 👀
+
 ---
 
 
