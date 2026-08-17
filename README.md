@@ -78,6 +78,7 @@ A collection of some of the main things you'll find around the website:
 |  🎬 | **Movies Hub**            |
 |  ⌚  | **Watch Collection**      |
 |  🌿 | **Natural Drugs**         |
+
 *Basically, a collection of things I like.* 👀
 ---
 
