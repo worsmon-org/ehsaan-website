@@ -7,6 +7,10 @@ Official website of EHSAAN ULLAH
 
 🌐 Website: https://ehsaan.odoo.com
 
+## CAR BLAST PLAYLIST ##
+Best Playlist For Basse Boosted Experience~
+[CLICK TO REDIRECT](https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ)
+
 ## About
 
 Ehsaan is a social-impact initiative focused on creating meaningful grassroots.
@@ -36,9 +40,6 @@ Ehsaan is a social-impact initiative focused on creating meaningful grassroots.
 - Google Docs
 - Cal.com and More.
 
-## CAR BLAST PLAYLIST ##
-Best Playlist For Basse Boosted Experience~
-[CLICK TO REDIRECT](https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ)
 
 ## Status ##
 
