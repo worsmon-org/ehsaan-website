@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CS EHSAAN ULLAH · personal blog</title>
+  <!-- Font Awesome 6 (free) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #0b0d15;
+      font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+      color: #eef2fb;
+      line-height: 1.6;
+      scroll-behavior: smooth;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* ----- navigation ----- */
+    nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background: rgba(11, 13, 21, 0.7);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+      z-index: 999;
+      padding: 14px 0;
+    }
+
+    nav .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 1.5rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, #f7b733, #fc4a1a);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      letter-spacing: -0.3px;
+    }
+
+    .logo i {
+      -webkit-text-fill-color: initial;
+      color: #f7b733;
+      margin-right: 6px;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 28px;
+      list-style: none;
+      font-weight: 500;
+    }
+
+    .nav-links a {
+      color: #b0c4de;
+      font-size: 0.9rem;
+      transition: 0.3s;
+      position: relative;
+    }
+
+    .nav-links a::after {
+      content: '';
+      position: absolute;
+      bottom: -4px;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: linear-gradient(90deg, #f7b733, #fc4a1a);
+      transition: width 0.3s ease;
+    }
+
+    .nav-links a:hover {
+      color: #fff;
+    }
+    .nav-links a:hover::after {
+      width: 100%;
+    }
+
+    .nav-toggle {
+      display: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: #eef2fb;
+    }
+
+    /* ----- hero / blast section ----- */
+    .hero {
+      padding: 140px 0 80px;
+      background: radial-gradient(circle at 20% 30%, #1a1f2f, #0b0d15 80%);
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    }
+
+    .hero::before {
+      content: '♬';
+      position: absolute;
+      font-size: 22rem;
+      opacity: 0.03;
+      right: -5%;
+      top: -20%;
+      transform: rotate(12deg);
+      pointer-events: none;
+    }
+
+    .hero .badge {
+      display: inline-block;
+      background: rgba(247, 183, 51, 0.12);
+      border: 1px solid rgba(247, 183, 51, 0.2);
+      padding: 6px 20px;
+      border-radius: 60px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.8px;
+      color: #f7b733;
+      margin-bottom: 28px;
+      backdrop-filter: blur(4px);
+    }
+
+    .hero h1 {
+      font-size: 3.8rem;
+      font-weight: 800;
+      letter-spacing: -1px;
+      line-height: 1.1;
+      background: linear-gradient(135deg, #ffffff 20%, #f7b733 80%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 12px;
+    }
+
+    .hero .sub {
+      font-size: 1.25rem;
+      color: #94a9c9;
+      max-width: 620px;
+      margin: 0 auto 28px;
+      font-weight: 400;
+    }
+
+    .hero .sub i {
+      color: #f7b733;
+      margin: 0 6px;
+    }
+
+    .hero .cta-group {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 14px;
+      margin-top: 8px;
+    }
+
+    .btn {
+      padding: 12px 32px;
+      border-radius: 60px;
+      font-weight: 600;
+      font-size: 0.95rem;
+      border: none;
+      cursor: pointer;
+      transition: 0.3s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(255, 255, 255, 0.04);
+      color: #eef2fb;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      text-decoration: none;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #f7b733, #fc4a1a);
+      color: #0b0d15;
+      border: none;
+      box-shadow: 0 8px 28px rgba(247, 183, 51, 0.25);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-4px) scale(1.02);
+      box-shadow: 0 14px 40px rgba(247, 183, 51, 0.35);
+    }
+
+    .btn-outline:hover {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.2);
+    }
+
+    /* ----- section titles ----- */
+    .section-title {
+      font-size: 2.4rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      margin-bottom: 10px;
+      position: relative;
+      display: inline-block;
+    }
+
+    .section-title::after {
+      content: '';
+      position: absolute;
+      bottom: -6px;
+      left: 0;
+      width: 56px;
+      height: 4px;
+      background: linear-gradient(90deg, #f7b733, #fc4a1a);
+      border-radius: 4px;
+    }
+
+    .section-sub {
+      color: #94a9c9;
+      margin-bottom: 44px;
+      font-size: 1.05rem;
+    }
+
+    /* ----- about / cards ----- */
+    .about {
+      padding: 80px 0 60px;
+      background: #0f121e;
+    }
+
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 48px;
+      align-items: center;
+    }
+
+    .about-text p {
+      margin-bottom: 18px;
+      color: #cddbf5;
+      font-size: 1.05rem;
+    }
+
+    .about-text .highlight {
+      color: #f7b733;
+      font-weight: 500;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    .stat-card {
+      background: rgba(255, 255, 255, 0.03);
+      backdrop-filter: blur(4px);
+      padding: 28px 16px;
+      border-radius: 24px;
+      text-align: center;
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      transition: 0.3s ease;
+    }
+
+    .stat-card:hover {
+      transform: translateY(-6px);
+      border-color: rgba(247, 183, 51, 0.2);
+      box-shadow: 0 12px 36px rgba(0, 0, 0, 0.3);
+    }
+
+    .stat-card .number {
+      font-size: 2.6rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, #f7b733, #fc4a1a);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .stat-card .label {
+      color: #94a9c9;
+      margin-top: 4px;
+      font-size: 0.9rem;
+    }
+
+    /* ----- blog / posts ----- */
+    .blog {
+      padding: 80px 0 60px;
+      background: #0b0d15;
+    }
+
+    .blog-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 32px;
+    }
+
+    .blog-card {
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 28px;
+      overflow: hidden;
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      transition: 0.35s ease;
+      backdrop-filter: blur(4px);
+    }
+
+    .blog-card:hover {
+      transform: translateY(-10px);
+      border-color: rgba(247, 183, 51, 0.15);
+      box-shadow: 0 20px 48px rgba(0, 0, 0, 0.5);
+    }
+
+    .blog-card .card-img {
+      height: 180px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 3rem;
+      color: rgba(255, 255, 255, 0.2);
+      position: relative;
+      background: linear-gradient(145deg, #1a1f2f, #0f121e);
+    }
+
+    .blog-card .card-img .date-badge {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: rgba(0, 0, 0, 0.6);
+      backdrop-filter: blur(6px);
+      padding: 4px 14px;
+      border-radius: 40px;
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: #eef2fb;
+      letter-spacing: 0.3px;
+    }
+
+    .blog-card .card-body {
+      padding: 24px 22px 26px;
+    }
+
+    .blog-card .card-body .tag {
+      display: inline-block;
+      background: rgba(247, 183, 51, 0.12);
+      color: #f7b733;
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 4px 14px;
+      border-radius: 40px;
+      letter-spacing: 0.3px;
+      margin-bottom: 12px;
+    }
+
+    .blog-card .card-body h3 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .blog-card .card-body p {
+      color: #94a9c9;
+      font-size: 0.95rem;
+      margin-bottom: 16px;
+    }
+
+    .blog-card .card-body .read-more {
+      font-weight: 600;
+      color: #f7b733;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: 0.3s ease;
+      text-decoration: none;
+    }
+
+    .blog-card .card-body .read-more:hover {
+      gap: 14px;
+    }
+
+    /* ----- skills / tools ----- */
+    .skills {
+      padding: 80px 0 60px;
+      background: #0f121e;
+    }
+
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 20px;
+    }
+
+    .skill-item {
+      background: rgba(255, 255, 255, 0.03);
+      padding: 24px 12px;
+      border-radius: 20px;
+      text-align: center;
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      transition: 0.3s ease;
+    }
+
+    .skill-item:hover {
+      transform: translateY(-6px);
+      border-color: rgba(247, 183, 51, 0.2);
+      background: rgba(247, 183, 51, 0.04);
+    }
+
+    .skill-item .icon {
+      font-size: 2.2rem;
+      color: #f7b733;
+      margin-bottom: 8px;
+    }
+
+    .skill-item .name {
+      font-weight: 500;
+      font-size: 0.9rem;
+      color: #cddbf5;
+    }
+
+    /* ----- contact / appointment ----- */
+    .contact {
+      padding: 80px 0 60px;
+      background: #0b0d15;
+      border-top: 1px solid rgba(255, 255, 255, 0.03);
+    }
+
+    .contact-wrapper {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 48px;
+      align-items: start;
+    }
+
+    .contact-info h3 {
+      font-size: 1.6rem;
+      margin-bottom: 12px;
+    }
+
+    .contact-info p {
+      color: #94a9c9;
+      margin-bottom: 28px;
+    }
+
+    .contact-info .info-item {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 16px;
+    }
+
+    .contact-info .info-item i {
+      width: 44px;
+      height: 44px;
+      background: rgba(247, 183, 51, 0.08);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #f7b733;
+      font-size: 1rem;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+      width: 100%;
+      padding: 14px 18px;
+      border: 1.5px solid rgba(255, 255, 255, 0.06);
+      border-radius: 16px;
+      font-size: 1rem;
+      background: rgba(255, 255, 255, 0.04);
+      color: #eef2fb;
+      transition: 0.3s ease;
+      font-family: inherit;
+      margin-bottom: 16px;
+    }
+
+    .contact-form input:focus,
+    .contact-form textarea:focus {
+      outline: none;
+      border-color: #f7b733;
+      background: rgba(255, 255, 255, 0.06);
+      box-shadow: 0 0 0 4px rgba(247, 183, 51, 0.06);
+    }
+
+    .contact-form textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+
+    .contact-form .btn {
+      background: linear-gradient(135deg, #f7b733, #fc4a1a);
+      color: #0b0d15;
+      border: none;
+      padding: 14px 36px;
+      border-radius: 60px;
+      font-weight: 700;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: 0.3s ease;
+      box-shadow: 0 6px 24px rgba(247, 183, 51, 0.2);
+    }
+
+    .contact-form .btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 36px rgba(247, 183, 51, 0.3);
+    }
+
+    /* ----- footer ----- */
+    footer {
+      background: #07090f;
+      padding: 40px 0 28px;
+      text-align: center;
+      border-top: 1px solid rgba(255, 255, 255, 0.03);
+    }
+
+    footer .footer-social {
+      display: flex;
+      justify-content: center;
+      gap: 18px;
+      margin-bottom: 20px;
+    }
+
+    footer .footer-social a {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.04);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #94a9c9;
+      transition: 0.3s ease;
+      font-size: 1.1rem;
+      text-decoration: none;
+    }
+
+    footer .footer-social a:hover {
+      background: #f7b733;
+      color: #0b0d15;
+      transform: translateY(-4px);
+    }
+
+    footer p {
+      font-size: 0.9rem;
+      opacity: 0.6;
+      color: #94a9c9;
+    }
+
+    footer p i {
+      color: #fc4a1a;
+      margin: 0 4px;
+    }
+
+    /* ----- responsive ----- */
+    @media (max-width: 900px) {
+      .about-grid,
+      .contact-wrapper {
+        grid-template-columns: 1fr;
+        gap: 32px;
+      }
+      .hero h1 {
+        font-size: 2.8rem;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        gap: 14px;
+        position: absolute;
+        top: 70px;
+        left: 0;
+        width: 100%;
+        background: rgba(11, 13, 21, 0.96);
+        backdrop-filter: blur(16px);
+        padding: 28px 24px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+      }
+
+      .nav-links.open {
+        display: flex;
+      }
+
+      .nav-toggle {
+        display: block;
+      }
+
+      .hero {
+        padding: 120px 0 60px;
+      }
+      .hero h1 {
+        font-size: 2.2rem;
+      }
+
+      .blog-grid {
+        grid-template-columns: 1fr;
+      }
+      .skills-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+      .about-stats {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .hero h1 {
+        font-size: 1.8rem;
+      }
+      .stat-card .number {
+        font-size: 2rem;
+      }
+      .section-title {
+        font-size: 1.8rem;
+      }
+    }
+
+    /* small interactive touches */
+    .glow-text {
+      text-shadow: 0 0 40px rgba(247, 183, 51, 0.08);
+    }
+    .car-blast-badge {
+      background: rgba(252, 74, 26, 0.08);
+      border: 1px solid rgba(252, 74, 26, 0.15);
+      color: #fc4a1a;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ─── NAV ─── -->
+<nav>
+  <div class="container">
+    <div class="logo"><i class="fas fa-bolt"></i> EHSAAN</div>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#about">About</a></li>
+      <li><a href="#blog">Blog</a></li>
+      <li><a href="#skills">Stack</a></li>
+      <li><a href="#contact">Connect</a></li>
+    </ul>
+    <div class="nav-toggle" id="navToggle">
+      <i class="fas fa-bars"></i>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── HERO ─── -->
+<section class="hero" id="home">
+  <div class="container">
+    <div class="badge"><i class="fas fa-music"></i> CAR BLAST · LOSSLESS POWER</div>
+    <h1>CS EHSAAN ULLAH</h1>
+    <p class="sub">
+      <i class="fas fa-quote-left"></i> Not a developer, not a coder — just someone who decided to make a GitHub repo and see what happens <i class="fas fa-quote-right"></i>
+    </p>
+    <div class="cta-group">
+      <a href="#contact" class="btn btn-primary"><i class="fas fa-calendar-check"></i> Book a table</a>
+      <a href="https://ehsaan.odoo.com" target="_blank" class="btn btn-outline"><i class="fas fa-globe"></i> Odoo space</a>
+      <a href="https://github.com/worsmon-org/ehsaan-website" target="_blank" class="btn btn-outline"><i class="fab fa-github"></i> Repo</a>
+    </div>
+  </div>
+</section>
+
+<!-- ─── ABOUT ─── -->
+<section class="about" id="about">
+  <div class="container">
+    <h2 class="section-title">About the chaos</h2>
+    <p class="section-sub">Reaching new heights · making a difference every day</p>
+
+    <div class="about-grid">
+      <div class="about-text">
+        <p>
+          <i class="fas fa-quote-left" style="color:#f7b733; margin-right:6px;"></i>
+          I'm <span class="highlight">CS EHSAAN ULLAH</span>. I barely know how to code, 
+          but I started looking at repositories I thought looked cool, copied some ideas, 
+          borrowed a few elements, changed things around, broke things, fixed them — 
+          and slowly figured out what Markdown and HTML actually do.[reference:0]
+        </p>
+        <p>
+          <i class="fas fa-rocket" style="color:#f7b733; margin-right:8px;"></i>
+          This isn't just a website — it's a collection of things I love: 
+          <span class="highlight">wallpapers, music (.FLAC), movies, watches, natural drugs</span>, 
+          and a whole lot of curiosity.[reference:1]
+        </p>
+        <p>
+          <i class="fas fa-phone" style="color:#f7b733; margin-right:8px;"></i>
+          Your phone is about to stop being yours — <span class="highlight">#KeepAndroidOpen</span>[reference:2]
+        </p>
+      </div>
+      <div class="about-stats">
+        <div class="stat-card">
+          <div class="number">103</div>
+          <div class="label">Commits · never stop</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">∞</div>
+          <div class="label">Ideas · borrowed & built</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">.FLAC</div>
+          <div class="label">lossless · bass is never enough</div>
+        </div>
+        <div class="stat-card">
+          <div class="number">🚗</div>
+          <div class="label">Car Blast · live concert</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── BLOG / PROJECTS ─── -->
+<section class="blog" id="blog">
+  <div class="container">
+    <h2 class="section-title">What I'm playing with</h2>
+    <p class="section-sub">Learning by experimenting with whatever I find interesting[reference:3]</p>
+
+    <div class="blog-grid">
+      <article class="blog-card">
+        <div class="card-img" style="background:linear-gradient(145deg,#1e1a2b,#0f121e);">
+          <i class="fas fa-music"></i>
+          <span class="date-badge"><i class="fas fa-bolt"></i> BLAST</span>
+        </div>
+        <div class="card-body">
+          <span class="tag">🎧 Car Blast</span>
+          <h3>For people who think the bass is never enough</h3>
+          <p>Turn up the volume. Get in the car. Let the speakers suffer.[reference:4]</p>
+          <a href="#" class="read-more">Feel the blast <i class="fas fa-arrow-right"></i></a>
+        </div>
+      </article>
+
+      <article class="blog-card">
+        <div class="card-img" style="background:linear-gradient(145deg,#1f2a1e,#0f121e);">
+          <i class="fas fa-image"></i>
+          <span class="date-badge">📸 album</span>
+        </div>
+        <div class="card-body">
+          <span class="tag">🖼️ Wallpapers</span>
+          <h3>Screenshots · movies · anime</h3>
+          <p>I made an album where all the pics are available — also for you.[reference:5]</p>
+          <a href="#" class="read-more">Explore <i class="fas fa-arrow-right"></i></a>
+        </div>
+      </article>
+
+      <article class="blog-card">
+        <div class="card-img" style="background:linear-gradient(145deg,#1a1f2f,#0f121e);">
+          <i class="fas fa-code"></i>
+          <span class="date-badge">🧪 repo</span>
+        </div>
+        <div class="card-body">
+          <span class="tag">📁 GitHub</span>
+          <h3>How did this repo even happen?</h3>
+          <p>Honestly? I decided to make a GitHub repository today.[reference:6]</p>
+          <a href="https://github.com/worsmon-org/ehsaan-website" target="_blank" class="read-more">
+            See the madness <i class="fas fa-arrow-right"></i>
+          </a>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ─── SKILLS / TOOLS ─── -->
+<section class="skills" id="skills">
+  <div class="container">
+    <h2 class="section-title">My current stack</h2>
+    <p class="section-sub">Things I'm exploring · Odoo · GitHub · Markdown · HTML · and more[reference:7]</p>
+
+    <div class="skills-grid">
+      <div class="skill-item"><div class="icon"><i class="fab fa-odoo"></i></div><div class="name">Odoo</div></div>
+      <div class="skill-item"><div class="icon"><i class="fab fa-github"></i></div><div class="name">GitHub</div></div>
+      <div class="skill-item"><div class="icon"><i class="fas fa-code"></i></div><div class="name">HTML</div></div>
+      <div class="skill-item"><div class="icon"><i class="fas fa-markdown"></i></div><div class="name">Markdown</div></div>
+      <div class="skill-item"><div class="icon"><i class="fas fa-google"></i></div><div class="name">Google Photos</div></div>
+      <div class="skill-item"><div class="icon"><i class="fas fa-file-alt"></i></div><div class="name">Google Docs</div></div>
+      <div class="skill-item"><div class="icon"><i class="fas fa-calendar-alt"></i></div><div class="name">Cal.com</div></div>
+      <div class="skill-item"><div class="icon"><i class="fas fa-music"></i></div><div class="name">.FLAC · lossless</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── CONTACT / BOOK ─── -->
+<section class="contact" id="contact">
+  <div class="container">
+    <h2 class="section-title">Book your table</h2>
+    <p class="section-sub">"BOOK YOUR TABLE WITH ME" — let's make something fun.[reference:8]</p>
+
+    <div class="contact-wrapper">
+      <div class="contact-info">
+        <h3>Let's connect</h3>
+        <p>
+          <i class="fas fa-quote-left" style="color:#f7b733;"></i> 
+          Every decision is based on data and my dedication towards making your life easier.[reference:9]
+        </p>
+        <div class="info-item"><i class="fas fa-envelope"></i><span>worsmon@proton.me[reference:10]</span></div>
+        <div class="info-item"><i class="fas fa-globe"></i><span>ehsaan.odoo.com</span></div>
+        <div class="info-item"><i class="fab fa-github"></i><span>worsmon-org/ehsaan-website</span></div>
+        <div class="info-item" style="margin-top:20px;">
+          <i class="fas fa-music" style="background:rgba(252,74,26,0.1); color:#fc4a1a;"></i>
+          <span style="color:#fc4a1a; font-weight:500;">CAR BLAST · THE LOSSLESS POWER[reference:11]</span>
+        </div>
+      </div>
+
+      <form class="contact-form" id="contactForm">
+        <input type="text" placeholder="Your name" required />
+        <input type="email" placeholder="Your email" required />
+        <input type="text" placeholder="Subject (e.g. Car Blast, collab, fun)" />
+        <textarea placeholder="Drop a message — I'm not a developer but I'll reply :)"></textarea>
+        <button type="submit" class="btn"><i class="fas fa-calendar-check"></i> Book appointment</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- ─── FOOTER ─── -->
+<footer>
+  <div class="container">
+    <div class="footer-social">
+      <a href="https://ehsaan.odoo.com" target="_blank"><i class="fas fa-globe"></i></a>
+      <a href="https://github.com/worsmon-org/ehsaan-website" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="#"><i class="fab fa-twitter"></i></a>
+      <a href="#"><i class="fab fa-youtube"></i></a>
+      <a href="#"><i class="fas fa-music"></i></a>
+    </div>
+    <p>
+      <i class="fas fa-bolt"></i> Made with curiosity · built for fun <i class="fas fa-bolt"></i>
+      <br><span style="font-size:0.8rem; opacity:0.5;">CS EHSAAN ULLAH · not a developer, just exploring</span>
+    </p>
+  </div>
+</footer>
+
+<!-- ─── JS ─── -->
+<script>
+  // mobile nav
+  const toggle = document.getElementById('navToggle');
+  const navLinks = document.getElementById('navLinks');
+  toggle.addEventListener('click', () => {
+    navLinks.classList.toggle('open');
+    const icon = toggle.querySelector('i');
+    icon.classList.toggle('fa-bars');
+    icon.classList.toggle('fa-times');
+  });
+
+  // close nav on link click
+  document.querySelectorAll('.nav-links a').forEach(link => {
+    link.addEventListener('click', () => {
+      navLinks.classList.remove('open');
+      const icon = toggle.querySelector('i');
+      icon.classList.add('fa-bars');
+      icon.classList.remove('fa-times');
+    });
+  });
+
+  // smooth scroll
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+      const targetId = this.getAttribute('href');
+      if (targetId === '#') return;
+      const target = document.querySelector(targetId);
+      if (target) {
+        e.preventDefault();
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  });
+
+  // contact form
+  const form = document.getElementById('contactForm');
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    const btn = this.querySelector('.btn');
+    const orig = btn.innerHTML;
+    btn.innerHTML = '<i class="fas fa-spinner fa-pulse"></i> Booking...';
+    btn.disabled = true;
+    setTimeout(() => {
+      btn.innerHTML = '✓ Done!';
+      btn.style.background = 'linear-gradient(135deg, #00b894, #00cec9)';
+      setTimeout(() => {
+        btn.innerHTML = orig;
+        btn.style.background = '';
+        btn.disabled = false;
+        this.reset();
+      }, 2000);
+    }, 1600);
+  });
+
+  // fade-in on scroll
+  const targets = document.querySelectorAll('.blog-card, .stat-card, .skill-item');
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.style.opacity = '1';
+        entry.target.style.transform = 'translateY(0)';
+      }
+    });
+  }, { threshold: 0.1 });
+
+  targets.forEach(el => {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(28px)';
+    el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+    obs.observe(el);
+  });
+
+  // initial visible
+  setTimeout(() => {
+    targets.forEach(el => {
+      const r = el.getBoundingClientRect();
+      if (r.top < window.innerHeight) {
+        el.style.opacity = '1';
+        el.style.transform = 'translateY(0)';
+      }
+    });
+  }, 300);
+</script>
+</body>
+</html>
