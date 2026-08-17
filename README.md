@@ -34,8 +34,6 @@
 
 ## 🧭 ABOUT
 
-I made this repository today.
-
 I’m not a developer. I barely know what I'm doing here.
 
 I started by looking at repositories I liked, stealing... ahem... borrowing some ideas, copying a few elements, changing them, breaking things, fixing them, and slowly figuring out what all this Markdown and HTML stuff actually does.
