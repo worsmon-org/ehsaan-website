@@ -170,6 +170,5 @@ Just someone exploring the internet, building things, collecting things, and hav
 <p align="center">
   <a href="https://ehsaan.odoo.com">
 
-    ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT ⭐
-    🌐 <strong>Visit EHSAAN</strong>
-  </a>
+# ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT ⭐ #
+    
