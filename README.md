@@ -37,7 +37,7 @@ Ehsaan is a social-impact initiative focused on creating meaningful grassroots.
 - Cal.com and More.
 
 ## CAR BLAST PLAYLIST ##
-[CLICK TO REDIRECT](https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ)
+[~CLICK TO REDIRECT~](https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ)
 
 ## Status ##
 
