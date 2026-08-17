@@ -161,9 +161,93 @@ Translations are done via weblate, you can contribute there!
 
  ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT ~
 
-<h3>💻 Languages</h3>
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML-100%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML 100%">
-</p>
-    
+  <!-- Title -->
+  <text x="0" y="20"
+        font-family="Arial, sans-serif"
+        font-size="16"
+        font-weight="600"
+        fill="#ffffff">
+    Languages
+  </text>
+
+  <!-- Language bar -->
+  <rect x="0" y="35" width="570" height="8" rx="4" fill="#30363d"/>
+
+  <!-- Java -->
+  <rect x="0" y="35" width="150" height="8" fill="#F89820"/>
+
+  <!-- C++ -->
+  <rect x="150" y="35" width="110" height="8" fill="#00599C"/>
+
+  <!-- C -->
+  <rect x="260" y="35" width="55" height="8" fill="#A8B9CC"/>
+
+  <!-- HTML -->
+  <rect x="315" y="35" width="35" height="8" fill="#E34F26"/>
+
+  <!-- NASL -->
+  <rect x="350" y="35" width="25" height="8" fill="#4CAF50"/>
+
+  <!-- Kotlin -->
+  <rect x="375" y="35" width="20" height="8" fill="#7F52FF"/>
+
+  <!-- Remaining -->
+  <rect x="395" y="35" width="175" height="8" fill="#30363d"/>
+
+
+  <!-- Legend row 1 -->
+
+  <circle cx="5" cy="65" r="4" fill="#F89820"/>
+  <text x="15" y="69"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        fill="#c9d1d9">
+    Java 34%
+  </text>
+
+  <circle cx="115" cy="65" r="4" fill="#00599C"/>
+  <text x="125" y="69"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        fill="#c9d1d9">
+    C++ 25%
+  </text>
+
+  <circle cx="225" cy="65" r="4" fill="#A8B9CC"/>
+  <text x="235" y="69"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        fill="#c9d1d9">
+    C 12%
+  </text>
+
+
+  <!-- Legend row 2 -->
+
+  <circle cx="5" cy="90" r="4" fill="#E34F26"/>
+  <text x="15" y="94"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        fill="#c9d1d9">
+    HTML 8%
+  </text>
+
+  <circle cx="115" cy="90" r="4" fill="#4CAF50"/>
+  <text x="125" y="94"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        fill="#c9d1d9">
+    NASL 5%
+  </text>
+
+  <circle cx="225" cy="90" r="4" fill="#7F52FF"/>
+  <text x="235" y="94"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        fill="#c9d1d9">
+    Kotlin 4%
+  </text>
+
+</svg>
