@@ -1,4 +1,4 @@
-# 🎗️ EHSAAN ULLAH
+# 🎗️ CS EHSAAN ULLAH
 
 <p align="center">
   <img src="./assets/banner.svg"
@@ -130,7 +130,6 @@ Just someone who decided:
 
 > *"Let's make a GitHub repository and see what happens."* 😂
 
-A few hours later, here we are.
 
 ---
 
