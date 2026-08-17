@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://ehsaan.odoo.com">
-    <img src="https://img.shields.io/badge/🌐_Visit_Website-EHSAAN_ODoo-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_VISIT_WEBSITE-EHSAAN-blue?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🧭 About
+## 🧭 ABOUT
 
 **EHSAAN** is a personal social-impact initiative focused on creating meaningful grassroots experiences, ideas, and digital collections.
 
@@ -44,30 +44,44 @@ Turn up the volume, get in the car, and let the bass do the work. 🚗💨🔊
 
 A collection of some of the main things you'll find around the website:
 
-| 🏷️ | Collection                |
-| --- | ------------------------- |
+| 🏷️ | COLLECTION                |
+| :-: | :------------------------ |
 | 🖼️ | **Wallpaper Collection**  |
-| 🎵  | **Music Library (.FLAC)** |
-| 🎬  | **Movies Hub**            |
-| ⌚   | **Watch Collection**      |
-| 🌿  | **Natural Drugs**         |
+|  🎵 | **Music Library (.FLAC)** |
+|  🎬 | **Movies Hub**            |
+|  ⌚  | **Watch Collection**      |
+|  🌿 | **Natural Drugs**         |
 
 ---
 
 ## 🖼️ SCREENSHOTS
 
-  
-<p align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" /> |   <img width="250" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
-
-  <img width="250" src="https://github.com/user-attachments/assets/a7ecbf39-708f-4623-80e3-768c03a708a2" />
-</p>
-
-<p align="center">
-  <img width="250" src="https://github.com/user-attachments/assets/384148ae-bece-4ce0-944e-cad0737af04a" />
-  <img width="250" src="https://github.com/user-attachments/assets/e06fbca0-a1ec-4ec4-a787-e17b7442f563" />
-  <img width="250" src="https://github.com/user-attachments/assets/e99a2229-2989-4550-be98-a115882ea513" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/a7ecbf39-708f-4623-80e3-768c03a708a2" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/384148ae-bece-4ce0-944e-cad0737af04a" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/e06fbca0-a1ec-4ec4-a787-e17b7442f563" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/e99a2229-2989-4550-be98-a115882ea513" />
+    </td>
+  </tr>
+</table>
 
 ---
 
