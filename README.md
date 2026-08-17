@@ -161,11 +161,9 @@ Translations are done via weblate, you can contribute there!
 
  ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT ~
 
- <p>
-  <strong>HTML</strong> — 100%
-</p>
+<h3>💻 Languages</h3>
 
-<div style="width: 100%; height: 10px; background-color: #e1e4e8; border-radius: 5px;">
-  <div style="width: 100%; height: 10px; background-color: #e34c26; border-radius: 5px;"></div>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML-100%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML 100%">
+</p>
     
