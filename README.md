@@ -7,6 +7,8 @@
 <p align="center">
   <strong>🌐 Official Website of EHSAAN ULLAH</strong>
 </p>
+[<button>](https://ehsaan.odoo.com/)
+  
 <p align="center">
 <a href="https://trendshift.io/repositories/22545" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22545" alt="A-EDev%2FFlow | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
@@ -31,7 +33,7 @@
 > ## [Keep Android Open](https://keepandroidopen.org/)
 > Starting September 2026, a silent update, nonconsensually pushed by Google, will block every
 > Android app whose developer hasn't registered with Google, signed their contract, paid up, and
-> handed over government ID.> **Every app and every device, worldwide, with no opt-out.**
+> handed over government ID. **Every app and every device, worldwide, with no opt-out.**
 > ### 📱 Your phone should remain yours.
 
 ---
