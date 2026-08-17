@@ -1,6 +1,6 @@
 # 🎗EHSAAN ULLAH
 
-<img width="512" height="512" alt="fire" src="https://github.com/user-attachments/assets/b1dba267-f7da-4f88-b6ee-0f11748365f3" />
+<img width="412" height="412" alt="fire" src="https://github.com/user-attachments/assets/b1dba267-f7da-4f88-b6ee-0f11748365f3" />
 
 
 Official website of EHSAAN ULLAH 
