@@ -63,6 +63,19 @@ And let the speakers suffer. 🚗💨🔊
 
 ---
 
+┌────────────────────────────────────────────┐
+│  CURRENTLY WORKING ON                      │
+│                                            │
+│  📚 CS Executive                           │
+│     Preparing for December 2026            │
+│                                            │
+│  🌐 Personal Website                       │
+│     ehsaan.odoo.com                        │
+│                                            │
+│  💻 GitHub                                 │
+│     Learning • Building • Experimenting    │
+└────────────────────────────────────────────┘
+
 ## 🔥 TOP ELEMENTS
 
 A collection of some of the main things you'll find around the website:
