@@ -34,8 +34,13 @@
 
 ## 🧭 ABOUT
 
-**EHSAAN** is a personal social-impact initiative focused on creating meaningful grassroots experiences, ideas, and digital collections.
+I made this repository today.
 
+I’m not a developer. I barely know what I'm doing here.
+
+I started by looking at repositories I liked, stealing... ahem... borrowing some ideas, copying a few elements, changing them, breaking things, fixing them, and slowly figuring out what all this Markdown and HTML stuff actually does.
+
+And somehow, this came out of it. 😂
 This website is a place where different interests, projects, collections, and experiments come together.
 
 > *Not everything here has to be serious. Some things are simply here because they're fun.* ✨
