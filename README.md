@@ -51,11 +51,15 @@ This website is a place where different interests, projects, collections, and ex
 
 ---
 
-## 🎧 CAR BLAST PLAYLIST
+# 🎧 CAR BLAST PLAYLIST
 
-### 🔊 Best Playlist for a Bass-Boosted Experience
+### 🔊 For People Who Think The Bass Is Never Enough
 
-Turn up the volume, get in the car, and let the bass do the work. 🚗💨🔊
+Turn up the volume.
+
+Get in the car.
+
+And let the speakers suffer. 🚗💨🔊
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ">
