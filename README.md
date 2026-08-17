@@ -113,15 +113,17 @@ A collection of some of the main things you'll find around the website:
 
 ---
 
-## ⚓ TECHNOLOGY
+# 🔥 THINGS YOU'LL FIND HERE
 
-The website is powered by a mix of platforms and tools:
+| 🏷️ | COLLECTION                |
+| :-: | :------------------------ |
+| 🖼️ | **Wallpaper Collection**  |
+|  🎵 | **Music Library (.FLAC)** |
+|  🎬 | **Movies Hub**            |
+|  ⌚  | **Watch Collection**      |
+|  🌿 | **Natural Drugs**         |
 
-* 🟣 **Odoo**
-* 📸 **Google Photos**
-* 📝 **Google Docs**
-* 📅 **Cal.com**
-* 🧩 **And more...**
+*Basically, a collection of things I like.* 👀
 
 ---
 
@@ -145,14 +147,12 @@ Honestly?
 **I decided to make a GitHub repository today.** 😂
 
 I'm **not a developer**.
-
 I barely know how to code.
 
 I started by looking at repositories I thought looked cool, copying some ideas, borrowing a few elements, changing things around, breaking things, fixing them, and slowly figuring out what all this Markdown and HTML actually does.
 
 And somehow...
-
-**I ended up making this.**
+     > **I ended up making this.**
 
 So this repository is basically my little experiment with GitHub, websites, Markdown, HTML, and whatever else I discover along the way. 🫠
 
@@ -167,8 +167,23 @@ Just someone exploring the internet, building things, collecting things, and hav
 
 ---
 
+# 👤 THAT'S ME
+
+**EHSAAN ULLAH**
+
+Not a developer.
+Not a coder.
+
+Just someone who decided:
+
+> *"Let's make a GitHub repository and see what happens."* 😂
+
+A few hours later, here we are.
+
+---
+
 <p align="center">
   <a href="https://ehsaan.odoo.com">
 
-# ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT ⭐ #
+## ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT  ##
     
