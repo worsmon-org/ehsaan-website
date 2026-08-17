@@ -23,8 +23,7 @@
 > **Every app and every device, worldwide, with no opt-out.**
 ---
 ## 📌My Favourit Habit Tracker App ##
-[<img alt="Try web Demo" src="badges/webDemo.png" width="180px">](https://shub39.github.io/Grit)
-[<img alt="Get it on Google Play" src="badges/playstore.png" width="180px">](https://play.google.com/store/apps/details?id=com.shub39.grit)
+<img width="417" height="134" alt="webDemo" src="https://github.com/user-attachments/assets/88c06137-f6e0-4e6b-9962-6f14c1d0536b" />
 
 ## 🧭 ABOUT
 
