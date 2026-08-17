@@ -38,7 +38,7 @@ Ehsaan is a social-impact initiative focused on creating meaningful grassroots.
 
 ## CAR BLAST PLAYLIST ##
 Best Playlist For Basse Boosted Experience~
-[~CLICK TO REDIRECT~](https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ)
+[CLICK TO REDIRECT](https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ)
 
 ## Status ##
 
