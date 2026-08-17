@@ -156,9 +156,16 @@ Translations are done via weblate, you can contribute there!
 
 ---
 
-<div class="SidebarSection-module__sidebarSection__e8jFN"><h2 class="SidebarSection-module__sectionHeading__TG36m prc-Heading-Heading-MtWFE" data-variant="small" data-component="Heading"><span>Languages</span></h2><div class="mb-2"><span data-component="ProgressBar" class="prc-ProgressBar-ProgressBarContainer-tCYE2" data-progress-display="block" data-progress-bar-size="default"><span data-component="ProgressBar.Item" class="prc-ProgressBar-ProgressBarItem-mDIlB" role="progressbar" aria-label="HTML: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="--progress-width: 100%; --progress-bg: var(--bgColor-success-emphasis); background-color: rgb(227, 76, 38); --darkreader-bg--progress-bg: var(--darkreader-bg--bgColor-success-emphasis); --darkreader-inline-bgcolor: var(--darkreader-background-e34c26, #af3517);" data-darkreader-inline-bgcolor=""></span></span></div><ul class="SidebarLanguages-module__languageList__R3aIa"><li class="SidebarLanguages-module__languageListItem__wZE7X"><a class="SidebarLanguages-module__languageLink__ja0fY prc-Link-Link-9ZwDx" data-component="Link" href="/ehsaan/stretch/search?l=html" data-discover="true"><span class="SidebarLanguages-module__languageDot__mtE1V" style="background-color: rgb(227, 76, 38); --darkreader-inline-bgcolor: var(--darkreader-background-e34c26, #af3517);" data-darkreader-inline-bgcolor=""></span><span class="SidebarLanguages-module__languageName__dpZ3u" itemprop="keywords">HTML</span><span>100%</span></a></li></ul></div>
 <p align="center">
   <a href="https://ehsaan.odoo.com">
 
  ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT ~
+
+ <p>
+  <strong>HTML</strong> — 100%
+</p>
+
+<div style="width: 100%; height: 10px; background-color: #e1e4e8; border-radius: 5px;">
+  <div style="width: 100%; height: 10px; background-color: #e34c26; border-radius: 5px;"></div>
+</div>
     
