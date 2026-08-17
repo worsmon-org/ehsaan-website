@@ -196,5 +196,5 @@ Translations are done via weblate, you can contribute there!
  ⭐ FINDING BEST RESOURCES IS NO MORE STUFF | GIVE STARE AND SUPPORT THE PROJECT ~
 
 <p align="center">
-  <img src="./assets/languages.svg" width="600" alt="Languages">
+  <img src="./languages.svg" width="600" alt="Languages">
 </p>
