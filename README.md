@@ -23,7 +23,7 @@ Ehsaan is a social-impact initiative focused on creating meaningful grassroots.
 
 3..NATURAL DRUGs
 
-<img width="400" height="900" alt="Screenshot_20260817-085042_1 - crop 2026-08-17 09-10-33" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
+<img width="400" height="800" alt="Screenshot_20260817-085042_1 - crop 2026-08-17 09-10-33" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
  <img width="400" height="800" alt="Screenshot_20260817-085049_1" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
 
 
