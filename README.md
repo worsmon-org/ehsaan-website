@@ -57,35 +57,7 @@ A collection of some of the main things you'll find around the website:
 ## 🖼️ SCREENSHOTS
 
 ## 📸 Screenshots
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="YOUR_SCREENSHOT_1_URL" width="100%" alt="Screenshot 1">
-    </td>
-    <td width="50%">
-      <img src="YOUR_SCREENSHOT_2_URL" width="100%" alt="Screenshot 2">
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <img src="YOUR_SCREENSHOT_3_URL" width="100%" alt="Screenshot 3">
-    </td>
-    <td width="50%">
-      <img src="YOUR_SCREENSHOT_4_URL" width="100%" alt="Screenshot 4">
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <img src="YOUR_SCREENSHOT_5_URL" width="100%" alt="Screenshot 5">
-    </td>
-    <td width="50%">
-      <img src="YOUR_SCREENSHOT_6_URL" width="100%" alt="Screenshot 6">
-    </td>
-  </tr>
-</table>
+  
 <p align="center">
   <img width="250" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
   <img width="250" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
