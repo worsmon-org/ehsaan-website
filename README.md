@@ -36,8 +36,8 @@
 </p>
 
 <p align="center">
-<img width="100px" alt="blog" src="https://github.com/user-attachments/assets/c33cfcaf-a696-4119-895e-0e34d5bff1e6" />
-
+[<img width="100px" alt="blog" src="https://github.com/user-attachments/assets/c33cfcaf-a696-4119-895e-0e34d5bff1e6" />
+](https://worsmon-org.github.io/ehsaan-website/)
 <p align="center">
   <img src="./banner.svg"
        width="100%"
