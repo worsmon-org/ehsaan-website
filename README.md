@@ -16,6 +16,20 @@
 
 ---
 
+# 🛡️ KEEP ANDROID OPEN
+
+I'm also interested in the discussion around Android's new developer-verification system.
+
+> ### 📱 Your phone should remain yours.
+
+Google has announced Android developer verification, with the first enforcement beginning **September 30, 2026** in Brazil, Indonesia, Singapore and Thailand, followed by a broader rollout planned for 2027.
+
+There are ongoing concerns from open-source and Android communities about what this means for independent developers, sideloading and the openness of Android.
+
+**Learn more:**
+👉 https://keepandroidopen.org/
+
+---
 # 👋 HOW DID THIS REPOSITORY EVEN HAPPEN?
 
 Honestly?
@@ -39,9 +53,9 @@ So this repository is basically my little experiment with GitHub, websites, Mark
 
 ---
 
-# 🌐 EHSAAN
+# 🌐 PERSONAL SPACE #
 
-**EHSAAN** is my personal collection of things I'm interested in, things I find useful, things I like, and random ideas that I want to put somewhere.
+**CS EHSAAN ULLAH** is my personal collection of things I'm interested in, things I find useful, things I like, and random ideas that I want to put somewhere.
 
 It's not really a traditional software project.
 
@@ -158,21 +172,6 @@ Currently:
 * 📝 **Google Docs**
 * 📅 **Cal.com**
 * 🧩 **And probably a lot of things I haven't discovered yet**
-
----
-
-# 🛡️ KEEP ANDROID OPEN
-
-I'm also interested in the discussion around Android's new developer-verification system.
-
-> ### 📱 Your phone should remain yours.
-
-Google has announced Android developer verification, with the first enforcement beginning **September 30, 2026** in Brazil, Indonesia, Singapore and Thailand, followed by a broader rollout planned for 2027.
-
-There are ongoing concerns from open-source and Android communities about what this means for independent developers, sideloading and the openness of Android.
-
-**Learn more:**
-👉 https://keepandroidopen.org/
 
 ---
 
