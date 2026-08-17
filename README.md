@@ -134,6 +134,23 @@ Just someone exploring the internet, building things, collecting things, and hav
 
 ---
 
+🧰 WHAT I'M PLAYING WITH
+
+I'm learning by experimenting with whatever I find interesting.
+
+Currently:
+
+🟣 Odoo
+🐙 GitHub
+📝 Markdown
+🌐 HTML
+📸 Google Photos
+📝 Google Docs
+📅 Cal.com
+🧩 And probably a lot of things I haven't discovered yet
+
+---
+
 # 👤 THAT'S ME
 
 **EHSAAN ULLAH**
@@ -145,9 +162,7 @@ Just someone who decided:
 
 > *"Let's make a GitHub repository and see what happens."* 😂
 
-
 ---
-
 
 ## 🚧 STATUS
 
