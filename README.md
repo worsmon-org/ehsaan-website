@@ -1,7 +1,7 @@
 # 🎗️ CS EHSAAN ULLAH
 
 <p align="center">
-  <img src="./assets/banner.svg"
+  <img src="./banner.svg"
        width="100%"
        alt="Ehsaan Ullah">
 </p>
