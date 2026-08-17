@@ -23,7 +23,7 @@
 > **Every app and every device, worldwide, with no opt-out.**
 ---
 ## 📌My Favourit Habit Tracker App ##
-<img width="417" height="134" alt="webDemo" src="https://github.com/user-attachments/assets/88c06137-f6e0-4e6b-9962-6f14c1d0536b" />
+<img width="180px" alt="webDemo" src="https://github.com/user-attachments/assets/88c06137-f6e0-4e6b-9962-6f14c1d0536b" />
 
 ## 🧭 ABOUT
 
