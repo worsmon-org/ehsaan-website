@@ -7,6 +7,8 @@
 <p align="center">
   <strong>🌐 Official Website of EHSAAN ULLAH</strong>
 </p>
+<p align="center">
+<a href="https://trendshift.io/repositories/22545" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22545" alt="A-EDev%2FFlow | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <p align="center">
   <a href="https://ehsaan.odoo.com">
@@ -14,22 +16,125 @@
   </a>
 </p>
 
----
+## 📌My Favourit Habit Tracker App ##
+[<img width="180px" alt="webDemo" src="https://github.com/user-attachments/assets/88c06137-f6e0-4e6b-9962-6f14c1d0536b" />
+](https://shub39.github.io/Grit)
+[<img width="180px" alt="playstore" src="https://github.com/user-attachments/assets/37873085-e28e-47a2-aa2a-b583dfcbc3c9" />
+](https://play.google.com/store/apps/details?id=com.shub39.grit)
+[<img width="180px" alt="fdroid" src="https://github.com/user-attachments/assets/a08ad80f-37d1-4431-983e-cfac2e367519" />
+](https://f-droid.org/en/packages/com.shub39.grit/)
 
 # 🛡️ KEEP ANDROID OPEN
 
 I'm also interested in the discussion around Android's new developer-verification system.
 
 > ### 📱 Your phone should remain yours.
+> [!CAUTION]
+> ## [Keep Android Open](https://keepandroidopen.org/)
+> Starting September 2026, a silent update, nonconsensually pushed by Google, will block every
+> Android app whose developer hasn't registered with Google, signed their contract, paid up, and
+> handed over government ID.
+> **Every app and every device, worldwide, with no opt-out.**
+---
 
-Google has announced Android developer verification, with the first enforcement beginning **September 30, 2026** in Brazil, Indonesia, Singapore and Thailand, followed by a broader rollout planned for 2027.
 
-There are ongoing concerns from open-source and Android communities about what this means for independent developers, sideloading and the openness of Android.
+## 🧭 ABOUT
 
-**Learn more:**
-👉 https://keepandroidopen.org/
+I’m not a developer. I barely know what I'm doing here.
+
+I started by looking at repositories I liked, stealing... ahem... borrowing some ideas, copying a few elements, changing them, breaking things, fixing them, and slowly figuring out what all this Markdown and HTML stuff actually does.
+
+And somehow, this came out of it. 😂
+This website is a place where different interests, projects, collections, and experiments come together.
+
+> *Not everything here has to be serious. Some things are simply here because they're fun.* ✨
 
 ---
+
+## 🎧 CAR BLAST PLAYLIST
+
+### 🔊 Best Playlist for a Bass-Boosted Experience
+
+Turn up the volume, get in the car, and let the bass do the work. 🚗💨🔊
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ">
+    <img src="https://img.shields.io/badge/🎵_PLAY_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔥 TOP ELEMENTS
+
+A collection of some of the main things you'll find around the website:
+
+| 🏷️ | COLLECTION                |
+| :-: | :------------------------ |
+| 🖼️ | **Wallpaper Collection**  |
+|  🎵 | **Music Library (.FLAC)** |
+|  🎬 | **Movies Hub**            |
+|  ⌚  | **Watch Collection**      |
+|  🌿 | **Natural Drugs**         |
+
+---
+
+## 🖼️ SCREENSHOTS
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/a7ecbf39-708f-4623-80e3-768c03a708a2" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/384148ae-bece-4ce0-944e-cad0737af04a" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/e06fbca0-a1ec-4ec4-a787-e17b7442f563" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github.com/user-attachments/assets/e99a2229-2989-4550-be98-a115882ea513" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚓ TECHNOLOGY
+
+The website is powered by a mix of platforms and tools:
+
+* 🟣 **Odoo**
+* 📸 **Google Photos**
+* 📝 **Google Docs**
+* 📅 **Cal.com**
+* 🧩 **And more...**
+
+---
+
+## 🚧 STATUS
+
+🟢 **Active Development**
+
+The project is continuously being updated, experimented with, and expanded.
+
+## Translations
+
+Translations are done via weblate, you can contribute there!
+[<img src="https://hosted.weblate.org/widget/grit/multi-auto.svg" alt="Translation status" />](https://hosted.weblate.org/engage/grit/)
+
+---
+
 # 👋 HOW DID THIS REPOSITORY EVEN HAPPEN?
 
 Honestly?
@@ -53,163 +158,13 @@ So this repository is basically my little experiment with GitHub, websites, Mark
 
 ---
 
-# 🌐 PERSONAL SPACE #
+Just someone exploring the internet, building things, collecting things, and having fun along the way. 🫠
 
-**CS EHSAAN ULLAH** is my personal collection of things I'm interested in, things I find useful, things I like, and random ideas that I want to put somewhere.
-
-It's not really a traditional software project.
-
-It's more like a **digital playground.** 🛝
-
-Sometimes useful.
-
-Sometimes weird.
-
-Sometimes completely unnecessary.
-
-But that's kind of the point.
+> **Made with curiosity. Built for fun. 🚀**
 
 ---
 
-# 📌 MY FAVOURITE HABIT TRACKER
-
-One of the apps I currently like:
-
 <p align="center">
-
-<a href="https://shub39.github.io/Grit">
-<img width="180px" alt="Web Demo" src="https://github.com/user-attachments/assets/88c06137-f6e0-4e6b-9962-6f14c1d0536b" />
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.shub39.grit">
-<img width="180px" alt="Google Play" src="https://github.com/user-attachments/assets/37873085-e28e-47a2-aa2a-b583dfcbc3c9" />
-</a>
-
-<a href="https://f-droid.org/en/packages/com.shub39.grit/">
-<img width="180px" alt="F-Droid" src="https://github.com/user-attachments/assets/a08ad80f-37d1-4431-983e-cfac2e367519" />
-</a>
-
-</p>
-
----
-
-# 🎧 CAR BLAST PLAYLIST
-
-### 🔊 For People Who Think The Bass Is Never Enough
-
-Turn up the volume.
-
-Get in the car.
-
-And let the speakers suffer. 🚗💨🔊
-
-<p align="center">
-  <a href="https://open.spotify.com/playlist/2Pa0z9HsIzuUf9vPHJJpPY?si=g-h3hzlQS1OupsBBg2B4fQ">
-    <img src="https://img.shields.io/badge/🎵_PLAY_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://ehsaan.odoo.com">
+    🌐 <strong>Visit EHSAAN</strong>
   </a>
-</p>
-
----
-
-# 🔥 THINGS YOU'LL FIND HERE
-
-| 🏷️ | COLLECTION                |
-| :-: | :------------------------ |
-| 🖼️ | **Wallpaper Collection**  |
-|  🎵 | **Music Library (.FLAC)** |
-|  🎬 | **Movies Hub**            |
-|  ⌚  | **Watch Collection**      |
-|  🌿 | **Natural Drugs**         |
-
-*Basically, a collection of things I like.* 👀
-
----
-
-# 🖼️ SCREENSHOTS
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/a7ecbf39-708f-4623-80e3-768c03a708a2" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/384148ae-bece-4ce0-944e-cad0737af04a" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/e06fbca0-a1ec-4ec4-a787-e17b7442f563" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github.com/user-attachments/assets/e99a2229-2989-4550-be98-a115882ea513" />
-    </td>
-  </tr>
-</table>
-
----
-
-# 🧰 WHAT I'M PLAYING WITH
-
-I'm learning by experimenting with whatever I find interesting.
-
-Currently:
-
-* 🟣 **Odoo**
-* 🐙 **GitHub**
-* 📝 **Markdown**
-* 🌐 **HTML**
-* 📸 **Google Photos**
-* 📝 **Google Docs**
-* 📅 **Cal.com**
-* 🧩 **And probably a lot of things I haven't discovered yet**
-
----
-
-# 🚧 CURRENT STATUS
-
-🟢 **ALIVE**
-
-🟡 **EXPERIMENTING**
-
-🔵 **LEARNING**
-
-🔴 **PROBABLY BREAKING SOMETHING**
-
-This repository is still evolving.
-
----
-
-# 👤 THAT'S ME
-
-**EHSAAN ULLAH**
-
-Not a developer.
-Not a coder.
-
-Just someone who decided:
-
-> *"Let's make a GitHub repository and see what happens."* 😂
-
-A few hours later, here we are.
-
----
-
-<p align="center">
-
-### 🌐 [VISIT EHSAAN](https://ehsaan.odoo.com)
-
-**Made with curiosity. Built by experimenting. 🚀**
-
-⭐ Feel free to explore.
-
-</p>
