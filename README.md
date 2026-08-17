@@ -29,7 +29,6 @@
 I'm also interested in the discussion around Android's new developer-verification system.
 
 > ### 📱 Your phone should remain yours.
-> [!CAUTION]
 > ## [Keep Android Open](https://keepandroidopen.org/)
 > Starting September 2026, a silent update, nonconsensually pushed by Google, will block every
 > Android app whose developer hasn't registered with Google, signed their contract, paid up, and
