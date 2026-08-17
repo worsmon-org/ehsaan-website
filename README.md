@@ -39,17 +39,43 @@
 
 ---
 
+# 👋 HOW DID THIS REPOSITORY EVEN HAPPEN?
 
-## 🧭 ABOUT
+Honestly?
 
-I’m not a developer. I barely know what I'm doing here.
+**I decided to make a GitHub repository today.** 😂
 
-I started by looking at repositories I liked, stealing... ahem... borrowing some ideas, copying a few elements, changing them, breaking things, fixing them, and slowly figuring out what all this Markdown and HTML stuff actually does.
+I'm **not a developer**.
+I barely know how to code.
 
-And somehow, this came out of it. 😂
-This website is a place where different interests, projects, collections, and experiments come together.
+I started by looking at repositories I thought looked cool, copying some ideas, borrowing a few elements, changing things around, breaking things, fixing them, and slowly figuring out what all this Markdown and HTML actually does.
 
-> *Not everything here has to be serious. Some things are simply here because they're fun.* ✨
+And somehow...
+     > **I ended up making this.**
+
+
+> **I came here to learn a little code.
+> I stayed because this became fun.** 🚀
+
+
+Just someone exploring the internet, building things, collecting things, and having fun along the way. 🫠
+
+> **Made with curiosity. Built for fun. 🚀**
+
+---
+
+# 👤 THAT'S ME
+
+**EHSAAN ULLAH**
+
+Not a developer.
+Not a coder.
+
+Just someone who decided:
+
+> *"Let's make a GitHub repository and see what happens."* 😂
+
+A few hours later, here we are.
 
 ---
 
@@ -127,46 +153,6 @@ The project is continuously being updated, experimented with, and expanded.
 
 Translations are done via weblate, you can contribute there!
 [<img src="https://hosted.weblate.org/widget/grit/multi-auto.svg" alt="Translation status" />](https://hosted.weblate.org/engage/grit/)
-
----
-
-# 👋 HOW DID THIS REPOSITORY EVEN HAPPEN?
-
-Honestly?
-
-**I decided to make a GitHub repository today.** 😂
-
-I'm **not a developer**.
-I barely know how to code.
-
-I started by looking at repositories I thought looked cool, copying some ideas, borrowing a few elements, changing things around, breaking things, fixing them, and slowly figuring out what all this Markdown and HTML actually does.
-
-And somehow...
-     > **I ended up making this.**
-
-
-> **I came here to learn a little code.
-> I stayed because this became fun.** 🚀
-
-
-Just someone exploring the internet, building things, collecting things, and having fun along the way. 🫠
-
-> **Made with curiosity. Built for fun. 🚀**
-
----
-
-# 👤 THAT'S ME
-
-**EHSAAN ULLAH**
-
-Not a developer.
-Not a coder.
-
-Just someone who decided:
-
-> *"Let's make a GitHub repository and see what happens."* 😂
-
-A few hours later, here we are.
 
 ---
 
