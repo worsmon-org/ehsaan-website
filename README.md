@@ -79,7 +79,7 @@ A collection of some of the main things you'll find around the website:
 |  ⌚  | **Watch Collection**      |
 |  🌿 | **Natural Drugs**         |
 
-*Basically, a collection of things I like.* 👀
+Basically, a collection of things I like. 👀
 ---
 
 
