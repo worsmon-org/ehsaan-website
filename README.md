@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://ehsaan.odoo.com" target="_blank">
-    <img src="/fire.png" width="220" alt="Ehsaan Ullah">
+    <img src="/cosmicflame.png" width="220" alt="Ehsaan Ullah">
   </a>
 </p>
 
