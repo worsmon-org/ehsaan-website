@@ -181,7 +181,7 @@ Translations are done via weblate, you can contribute there!
  ⭐ FINDING BEST RESOURCES IS NO MORE STUFF.
 
 <p align="center">
- <a href="https://ehsaan.odoo.com" target="_blank">
+ <a href="https://worsmon-org.github.io/ehsaan-website/" target="_blank">
   <img src="/ehsaan.png" width="100" alt="Ehsaan Ullah">
 </a>
 
