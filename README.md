@@ -133,23 +133,19 @@ A collection of some of the main things you'll find around the website:
 
 Honestly?
 
-**I decided to make a GitHub repository today.** 😂
+**I decided to make a GitHub repository.** 😂
 
 I'm **not a developer**.
 I barely know how to code.
 
 I started by looking at repositories I thought looked cool, copying some ideas, borrowing a few elements, changing things around, breaking things, fixing them, and slowly figuring out what all this Markdown and HTML actually does.
 
-And somehow...
-     > **I ended up making this.**
+And somehow.. **I ended up making this.**
 
 
 > **I came here to learn a little code.
 > I stayed because this became fun.** 🚀
-
-
-Just someone exploring the internet, building things, collecting things, and having fun along the way. 🫠
-
+> Just someone exploring the internet, building things, collecting things, and having fun along the way. 🫠
 > **Made with curiosity. Built for fun. 🚀**
 
 ---
