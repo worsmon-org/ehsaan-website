@@ -41,6 +41,8 @@
        width="100%"
        alt="Ehsaan Ullah">
   
+# 🧧 MY BLOG.  [click here to redirect.](https://worsmon-org.github.io/ehsaan-website/)
+  
 ## 📌My Favourit Habit Tracker App ##
 [<img width="180px" alt="webDemo" src="https://github.com/user-attachments/assets/88c06137-f6e0-4e6b-9962-6f14c1d0536b" />
 ](https://shub39.github.io/Grit)
@@ -50,10 +52,6 @@
 ](https://f-droid.org/en/packages/com.shub39.grit/)
 
 ---
-
-# 🧧 MY BLOG.  [click here to redirect.](https://worsmon-org.github.io/ehsaan-website/)
-
-
 
 # 🛡️ KEEP ANDROID OPEN
 
