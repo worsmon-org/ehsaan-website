@@ -21,20 +21,6 @@
     <img src="https://img.shields.io/badge/🌐_VISIT_WEBSITE-EHSAAN-blue?style=for-the-badge" />
   </a>
 </p>
-
-<p align="center">
-  <a href="mailto:worsmon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-
-  <a href="https://github.com/worsmon-org">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-
-  <a href="https://ehsaan.odoo.com/">
-    <img src="https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-</p>
     
 <img width="1895" height="925" alt="EHSAAN ULLAH" src="https://github.com/user-attachments/assets/fa5a3be8-0923-4a98-ab2c-e5c26bb6efc8" />
 
@@ -196,6 +182,19 @@ Translations are done via weblate, you can contribute there!
 
 <p align="center">
  <a href="https://ehsaan.odoo.com" target="_blank">
-  <img src="/ehsaan.png" width="110" alt="Ehsaan Ullah">
+  <img src="/ehsaan.png" width="100" alt="Ehsaan Ullah">
 </a>
 
+<p align="center">
+  <a href="mailto:worsmon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://github.com/worsmon-org">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="https://ehsaan.odoo.com/">
+    <img src="https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+</p>
