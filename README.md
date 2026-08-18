@@ -35,11 +35,6 @@
     <img src="https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
 </p>
-
-  <p align="center">
-  <a href="https://worsmon-org.github.io/ehsaan-website/" target="_blank">
-    <img src="/blog.png" width="220" alt="Ehsaan Ullah">
-  </a>
     
 <p align="center">
   <img src="./banner.svg"
@@ -55,6 +50,10 @@
 ](https://f-droid.org/en/packages/com.shub39.grit/)
 
 ---
+
+# 🧧 MY BLOG.  [click here to redirect.](https://worsmon-org.github.io/ehsaan-website/)
+
+
 
 # 🛡️ KEEP ANDROID OPEN
 
