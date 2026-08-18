@@ -196,5 +196,9 @@ Translations are done via weblate, you can contribute there!
   <a href="https://ehsaan.odoo.com">
 
  ⭐ FINDING BEST RESOURCES IS NO MORE STUFF.
- GIVE STARE AND SUPPORT THE PROJECT ~
+
+<p align="center">
+ <a href="https://ehsaan.odoo.com" target="_blank">
+  <img src="/ehsaan.png" width="110" alt="Ehsaan Ullah">
+</a>
 
