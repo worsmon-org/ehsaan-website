@@ -1,9 +1,10 @@
 # 🎗️ CS EHSAAN ULLAH
 
 
-</p>
 <p align="center">
-  <img width="220" height="220" alt="EHSAAN ULLAH" src="https://github.com/user-attachments/assets/b1dba267-f7da-4f88-b6ee-0f11748365f3" />
+  <a href="https://ehsaan.odoo.com" target="_blank">
+    <img src="/fire.png" width="220" alt="Ehsaan Ullah">
+  </a>
 </p>
 
 <p align="center">
