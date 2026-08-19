@@ -154,7 +154,7 @@ Currently:
 # 🎫 WALLPAPER GENERATOR~ A NEW REPO ON GITHUB BY ME
 
 <p align="center">
- <a href="https://worsmon-org.github.io/wallpaper-generater/" target="_blank">
+ <a href="https://github.com/worsmon-org/Wallpaper-generater/" target="_blank">
   <img src="/banner.png" width="100%" alt="Ehsaan Ullah">
 </a>
  This project is not complete duo to lack of time...
