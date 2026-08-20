@@ -85,27 +85,38 @@ A collection of some of the main things you'll find around the website:
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
       <img width="100%" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
       <img width="100%" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
       <img width="100%" src="https://github.com/user-attachments/assets/a7ecbf39-708f-4623-80e3-768c03a708a2" />
     </td>
-    <td align="center" width="50%">
+  </tr>
+
+  <tr>
+    <td align="center" width="33.33%">
       <img width="100%" src="https://github.com/user-attachments/assets/384148ae-bece-4ce0-944e-cad0737af04a" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
       <img width="100%" src="https://github.com/user-attachments/assets/e06fbca0-a1ec-4ec4-a787-e17b7442f563" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
       <img width="100%" src="https://github.com/user-attachments/assets/e99a2229-2989-4550-be98-a115882ea513" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33.33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/da57ecfa-6eb6-4155-9769-b3019a704c9f" />
+    </td>
+    <td align="center" width="33.33%">
+      <img width="100%" src="https://github.com/user-attachments/assets/b85f7c5c-966d-4549-a3ef-11da2272e0fc" />
+    </td>
+    <td align="center" width="33.33%">
+      <!-- Empty third slot -->
     </td>
   </tr>
 </table>
