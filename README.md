@@ -24,10 +24,6 @@
     
 <img width="1895" height="925" alt="EHSAAN ULLAH" src="https://github.com/user-attachments/assets/fa5a3be8-0923-4a98-ab2c-e5c26bb6efc8" />
 
-
-# 🧧 MY BLOG.  [click here to redirect.](https://worsmon-org.github.io/ehsaan-website/)
-
-  🎇
 # 📌My Favourit Habit Tracker App
 [<img width="180px" alt="webDemo" src="https://github.com/user-attachments/assets/88c06137-f6e0-4e6b-9962-6f14c1d0536b" />
 ](https://shub39.github.io/Grit)
@@ -49,6 +45,11 @@
 > ### 📱 Your phone should remain yours.
 
 ---
+
+# 🧧 MY BLOG.  [click here to visit.](https://worsmon-org.github.io/ehsaan-website/)
+<img width="1895" height="925" alt="EHSAAN ULLAH" src="/blog.png" />
+<p align="center">
+"PURELY DESIGNED BY ME WITH THE HELP OF AI MODLES AND MY CREATIVITY.."
 
 # 🎧 CAR BLAST PLAYLIST
 
