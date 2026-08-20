@@ -86,7 +86,7 @@ A collection of some of the main things you'll find around the website:
 <table>
   <tr>
     <td align="center" width="33.33%">
-      <img width="100%" src="https://github.com/user-attachments/assets/e6fe2306-b0df-45d9-9130-c580a965890e" />
+<img width="100%" src="https://github.com/user-attachments/assets/8fe18549-fdfb-4e52-b1f7-fc5d0eff1a3f" />
     </td>
     <td align="center" width="33.33%">
       <img width="100%" src="https://github.com/user-attachments/assets/4b06b644-ab54-451b-87b7-d65cada98287" />
