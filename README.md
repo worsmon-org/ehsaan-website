@@ -82,6 +82,7 @@ A collection of some of the main things you'll find around the website:
 ---
 
 # 🖼️ SCREENSHOTS
+👓 Zoom to see properly..
 
 <table>
   <tr>
