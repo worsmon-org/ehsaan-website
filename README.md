@@ -1,5 +1,3 @@
-# 🎗️ CS EHSAAN ULLAH THE REPOSITORY
-
 
 <p align="center">
   <a href="https://ehsaan.odoo.com" target="_blank">
