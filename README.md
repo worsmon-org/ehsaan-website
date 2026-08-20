@@ -82,7 +82,7 @@ A collection of some of the main things you'll find around the website:
 ---
 
 # 🖼️ SCREENSHOTS
-👓 Zoom to see properly..
+🥽 Zoom to see properly.. And [clicke here](https://ehsaan.odoo.com) to go to website..!
 
 <table>
   <tr>
