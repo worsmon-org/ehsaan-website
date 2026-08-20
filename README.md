@@ -39,14 +39,10 @@
 > [!CAUTION]
 > ###  Your phone is about to stop being yours.
 > ## [Keep Android Open](https://keepandroidopen.org/)
-> Starting September 2026, a silent update, nonconsensually pushed by Google, will block every
-> Android app whose developer hasn't registered with Google, signed their contract, paid up, and
-> handed over government ID. **Every app and every device, worldwide, with no opt-out.**
-> ### 📱 Your phone should remain yours.
 
 ---
 
-# 🧧 MY BLOG.  [click here to visit.](https://worsmon-org.github.io/ehsaan-website/)
+## 🧧 MY BLOG.  [click here to visit.](https://worsmon-org.github.io/ehsaan-website/)
 <img width="1895" height="925" alt="EHSAAN ULLAH" src="/blog.png" />
 <p align="center">
 "PURELY DESIGNED BY ME WITH THE HELP OF AI MODLES AND MY CREATIVITY.."
