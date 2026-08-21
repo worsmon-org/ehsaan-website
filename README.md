@@ -9,10 +9,10 @@
   <strong>🌐 Official Website of EHSAAN ULLAH</strong>
 </p>
 <p align="center">
-(https://ehsaan.odoo.com/)
-  
+~ EHSAAN.ODOO.COM ~
 <p align="center">
-<img width="250" height="55" alt="image" src="https://github.com/user-attachments/assets/c88238e5-ff64-4c36-9ff8-3f4e2b8a6f8f" />
+<img width="250" height="55" alt="image" src="https://github.com/user-attachments/assets/d6118ff7-7223-4d77-a285-b52f4a92828d" />
+<img width="250" height="55" alt="image" src="https://github.com/user-attachments/assets/b5a87360-2bd2-4d5f-89ad-a4eea8145882" />
 
 <p align="center">
   <a href="https://ehsaan.odoo.com">
@@ -31,19 +31,6 @@
 ](https://f-droid.org/en/packages/com.shub39.grit/)
 
 ---
-
-# 🛡️ KEEP ANDROID OPEN
-
-> [!CAUTION]
-> ###  Your phone is about to stop being yours.
-> ## [Keep Android Open](https://keepandroidopen.org/)
-
----
-
-## 🧧 MY BLOG.  [click here to visit.](https://worsmon-org.github.io/ehsaan-website/)
-<img width="1895" height="925" alt="EHSAAN ULLAH" src="/blog.png" />
-<p align="center">
-"PURELY DESIGNED BY ME WITH THE HELP OF AI MODLES AND MY CREATIVITY.."
 
 # 🎧 CAR BLAST PLAYLIST
 
@@ -119,6 +106,13 @@ A collection of some of the main things you'll find around the website:
 
 ---
 
+## 🧧 MY BLOG.  [click here to visit.](https://worsmon-org.github.io/ehsaan-website/)
+<img width="100%" alt="EHSAAN ULLAH" src="/blog.png" />
+<p align="center">
+"PURELY DESIGNED BY ME WITH THE HELP OF AI MODLES AND MY CREATIVITY.."
+
+---
+
 # 👋 HOW DID THIS REPOSITORY EVEN HAPPEN?
 
 Honestly?
@@ -166,17 +160,6 @@ Currently:
 </a>
  This project is not complete duo to lack of time...
   
-# 👤 THAT'S ME
-
-**EHSAAN ULLAH**
-
-Not a developer.
-Not a coder.
-
-Just someone who decided:
-
-> *"Let's make a GitHub repository and see what happens."* 😂
-
 ---
 
 ## 🚧 STATUS
