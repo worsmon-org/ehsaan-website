@@ -107,7 +107,7 @@ A collection of some of the main things you'll find around the website:
 ---
 
 ## 🧧 MY BLOG.  [click here to visit.](https://worsmon-org.github.io/ehsaan-website/)
-<img width="100%" alt="EHSAAN ULLAH" src="/blog.png" />
+<img width="100%" alt="EHSAAN ULLAH" src="/newblog.png" />
 <p align="center">
 "PURELY DESIGNED BY ME WITH THE HELP OF AI MODLES AND MY CREATIVITY.."
 
