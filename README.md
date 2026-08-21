@@ -32,6 +32,12 @@
 
 ---
 
+> [!CAUTION]
+> # 💢 [Remove Meta Tracking From Your Life...!](https://youtu.be/Yv2Eb_kJous)
+> Meta services includes facebook,instagram,whatsapp,webeye,pixalscale and more, they track your every activity as they know you more then youself.
+
+---
+
 # 🎧 CAR BLAST PLAYLIST
 
 ### 🔊 For People Who Think The Bass Is Never Enough
