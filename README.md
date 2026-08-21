@@ -160,10 +160,23 @@ Currently:
 
 ---
 
-## 🎫 WALLPAPER GENERATOR~ A NEW REPO ON GITHUB BY ME
+## 🎫 Wallpaper Generator — A New GitHub Project
 
- This project is not complete duo to lack of time...
-  
+✨ **A new project by me!**
+
+I’ve started building **Wallpaper Generator**, a project created to make generating wallpapers simple and fun. 🖥️🎨
+
+🚀 **Check it out on GitHub:**
+👉 [**Wallpaper Generator Repository**](https://github.com/worsmon-org/Wallpaper-generater)
+
+> ⚠️ **Work in Progress**
+>
+> This project is **not complete yet** due to a lack of time, but I’ll hopefully continue improving it whenever I get the chance.
+
+⭐ Feel free to explore the project, try it out, and follow along with its development!
+
+**More updates coming when I get time. 👀**
+
 ---
 
 ## 🚧 STATUS
