@@ -6,14 +6,11 @@
 </p>
 
 <p align="center">
-  <strong>🌐 Official Website of EHSAAN ULLAH</strong>
-</p>
+   🌐 Official Website of EHSAAN ULLAH
+
+
 <p align="center">
 ~ EHSAAN.ODOO.COM ~
-<p align="center">
-<img width="250" height="55" alt="image" src="https://github.com/user-attachments/assets/d6118ff7-7223-4d77-a285-b52f4a92828d" />
-<img width="250" height="55" alt="image" src="https://github.com/user-attachments/assets/b5a87360-2bd2-4d5f-89ad-a4eea8145882" />
-
 <p align="center">
   <a href="https://ehsaan.odoo.com">
     <img src="https://img.shields.io/badge/🌐_VISIT_WEBSITE-EHSAAN-blue?style=for-the-badge" />
@@ -33,8 +30,17 @@
 ---
 
 > [!CAUTION]
-> # 💢 [Remove Meta Tracking From Your Life...!](https://youtu.be/Yv2Eb_kJous)
-> Meta services includes facebook,instagram,whatsapp,webeye,pixalscale and more, they track your every activity as they know you more then youself.
+> ### 💢 Privacy & Tracking
+>
+> 🔴 **[Remove Meta Tracking From Your Life](https://youtu.be/Yv2Eb_kJous)**  
+> Learn about reducing Meta tracking.
+>
+> ⭕ **[Remove Google Tracking](https://youtu.be/WJ8clVdaRKA)**  
+> Learn about reducing Google tracking.
+>
+> **Services include:** Facebook · Instagram · WhatsApp · Gmail · Drive · Docs · Forms · Console · and more. they know you more then you yourself..!
+>
+> 🔐 *Learn how tracking works and take control of your privacy.*
 
 ---
 
@@ -105,20 +111,16 @@ A collection of some of the main things you'll find around the website:
       <img width="100%" src="https://github.com/user-attachments/assets/b85f7c5c-966d-4549-a3ef-11da2272e0fc" />
     </td>
     <td align="center" width="33.33%">
-      <!-- Empty third slot -->
+            <!-- Empty third slot -->
     </td>
   </tr>
 </table>
 
----
+## 🧧 MY BLOG.  [click here to visit my blog.](https://worsmon-org.github.io/ehsaan-website/)
 
-## 🧧 MY BLOG.  [click here to visit.](https://worsmon-org.github.io/ehsaan-website/)
-<img width="100%" alt="EHSAAN ULLAH" src="/newblog.png" />
 <p align="center">
 "PURELY DESIGNED BY ME WITH THE HELP OF AI MODLES AND MY CREATIVITY.."
-
----
-
+  
 # 👋 HOW DID THIS REPOSITORY EVEN HAPPEN?
 
 Honestly?
@@ -158,12 +160,8 @@ Currently:
 
 ---
 
-# 🎫 WALLPAPER GENERATOR~ A NEW REPO ON GITHUB BY ME
+## 🎫 WALLPAPER GENERATOR~ A NEW REPO ON GITHUB BY ME
 
-<p align="center">
- <a href="https://github.com/worsmon-org/Wallpaper-generater/" target="_blank">
-  <img src="/banner.png" width="100%" alt="Ehsaan Ullah">
-</a>
  This project is not complete duo to lack of time...
   
 ---
@@ -183,6 +181,13 @@ Translations are done via weblate, you can contribute there!
 
 <p align="center">
   <a href="https://ehsaan.odoo.com">
+
+  # Security
+
+SHA-256 fingerprint for the signing certificate used for github releases
+```text
+0F:E1:B9:F4:4A:4D:B9:7E:C5:09:48:F5:18:9F:6B:43:00:71:6C:D4:84:3F:56:98:D6:14:A2:15:2E:21:88
+```
 
  ⭐ FINDING BEST RESOURCES IS NO MORE STUFF.
 
